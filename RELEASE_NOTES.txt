@@ -1,0 +1,2 @@
+# Application release notes
+release=2.0
